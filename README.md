@@ -1,2 +1,3 @@
-# tic-tac-toe 
+# tic-tac-toe Game
+you can view my deployment working live and play...... 
 deployment  -  https://kshuhambgs123.github.io/tic-tac-toe/
